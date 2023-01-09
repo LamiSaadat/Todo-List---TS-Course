@@ -1,4 +1,5 @@
 import React from "react";
+import "./TodoList.css";
 
 //tell TS the type of props this component is receiving
 interface TodoListProps {
